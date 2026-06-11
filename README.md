@@ -5,7 +5,6 @@ I work on supply chain platform delivery across industries including CPG, retail
 
 
 🔭 I'm currently working on AI accelerators and tools for enterprise supply chain — prompt libraries, agentic workflows, and lightweight apps that make LLMs useful in operational contexts
-
 🌱 I'm currently learning agentic AI design patterns, Claude tool use, and how to build multi-step AI workflows for business decision support
 
 👯 I'm looking to collaborate on open-source AI tools for supply chain and operations — dashboards, analysis notebooks, or prompt frameworks that practitioners can actually use
