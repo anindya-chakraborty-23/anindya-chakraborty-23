@@ -5,12 +5,19 @@ I work on supply chain platform delivery across industries including CPG, retail
 
 
 🔭 I'm currently working on AI accelerators and tools for enterprise supply chain — prompt libraries, agentic workflows, and lightweight apps that make LLMs useful in operational contexts
+
 🌱 I'm currently learning agentic AI design patterns, Claude tool use, and how to build multi-step AI workflows for business decision support
+
 👯 I'm looking to collaborate on open-source AI tools for supply chain and operations — dashboards, analysis notebooks, or prompt frameworks that practitioners can actually use
+
 🤔 I'm looking for help with scaling AI prototypes into production-ready enterprise tools and best practices for responsible AI adoption in regulated industries
+
 💬 Ask me about enterprise AI use cases, supply chain SaaS platforms, prompt engineering for business, and applying LLMs in CPG / retail / energy and utilities
+
 📫 How to reach me: LinkedIn — DMs open
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I spend a lot of time thinking about how to make AI feel less like a demo and more like something that actually survives contact with a real business process
 
 
@@ -19,9 +26,13 @@ This GitHub is a working portfolio of AI tools, prompts, notebooks, and accelera
 You'll find:
 
 🤖 Claude / LLM accelerators — practical tools and patterns for applying large language models in enterprise contexts
+
 📦 Supply chain AI use cases for CPG/Retail/manufacturing — demand sensing, supplier risk, KPI analysis, and SaaS platform augmentation
+
 ⚡ Energy and utilities applications — data analysis, insight generation, and AI-powered reporting
+
 📝 Prompt libraries — curated, enterprise-grade prompts for business analysis, summarisation, and decision support
+
 📓 Jupyter notebooks — hands-on explorations combining Python, public datasets, and AI-powered insight layers
 
 
