@@ -2,7 +2,7 @@
 
 I'm a senior supply chain and AI professional working at the intersection of enterprise technology, operational strategy, and applied AI. My focus is on making AI practical and impactful in real business contexts — not just theoretically interesting.
 
-I work on **supply chain platform delivery** across industries including **CPG, retail, manufacturing, energy and utilities**, with hands-on experience implementing supply chain SaaS platforms and augmenting them with AI-powered intelligence layers. I hold the **Claude Certified Architect – Foundations** certification and an exploring Calude's use cases in an enterprise context
+I work on **supply chain platform delivery** across industries including **CPG, retail, manufacturing, energy and utilities**, with hands-on experience implementing supply chain SaaS platforms and augmenting them with AI-powered intelligence layers. I hold the **Claude Certified Architect – Foundations** certification and an exploring Calude's use cases in an enterprise context.
 
 ---
 
