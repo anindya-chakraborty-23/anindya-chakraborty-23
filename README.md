@@ -1,7 +1,7 @@
 Hi, I'm Anindya 👋
 
 I'm a senior supply chain and AI professional working at the intersection of enterprise technology, operational strategy, and applied AI. My focus is on making AI practical and impactful in real business contexts — not just theoretically interesting.
-I work on supply chain platform delivery across industries including CPG, retail, manufacturing, energy and utilities, with hands-on experience implementing supply chain SaaS platforms and augmenting them with AI-powered intelligence layers. I hold the Claude Certified Architect – Foundations certification and have been actively building AI tools, accelerators, and workflows using the Anthropic ecosystem.
+I work on supply chain platform delivery across industries including CPG, retail, manufacturing, energy and utilities, with hands-on experience implementing supply chain SaaS platforms and augmenting them with AI-powered intelligence layers. I hold the Claude Certified Architect – Foundations certification and am exploring Claude's use cases in an enterprise context
 
 - 🔭 I'm currently working on AI accelerators and tools for enterprise supply chain — prompt libraries, agentic workflows, and lightweight apps that make LLMs useful in operational contexts
 - 🌱 I'm currently learning agentic AI design patterns, Claude tool use, and how to build multi-step AI workflows for business decision support
