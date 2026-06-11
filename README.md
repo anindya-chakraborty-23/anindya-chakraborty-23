@@ -19,7 +19,7 @@ I work on **supply chain platform delivery** across industries including **CPG, 
 
 ## What I build here
 
-This GitHub is a working portfolio of AI tools, prompts, notebooks, and accelerators — primarily at the intersection of **Supply Chain**, **CPG/Retail **, **Manufacturing**, **Energy/Utilities**, and **Enterprise AI**.
+This GitHub is a working portfolio of AI tools, prompts, notebooks, and accelerators — primarily at the intersection of **Supply Chain**, **CPG/Retail**, **Manufacturing**, **Energy/Utilities**, and **Enterprise AI**.
 
 You'll find:
 
